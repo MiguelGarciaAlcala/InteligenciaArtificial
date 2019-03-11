@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1552261756 source:/home/miguel/Documentos/Computer Science/Code::Blocks/C/BasicGA/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"agenetico.h"
+
+1552188805 /home/miguel/Documentos/Computer Science/Code::Blocks/C/BasicGA/individuo.h
+	<stdio.h>
+	<stdlib.h>
+
+1552261647 /home/miguel/Documentos/Computer Science/Code::Blocks/C/BasicGA/poblacion.h
+	<stdio.h>
+	<stdlib.h>
+	"individuo.h"
+
+1552196431 /home/miguel/Documentos/Computer Science/Code::Blocks/C/BasicGA/agenetico.h
+	<stdio.h>
+	"poblacion.h"
+
